@@ -7,7 +7,7 @@ Authors@R: c(
     person(given="Renjie", family="Luo", email="jerry.luorj@gmail.com", role=c("aut","cre")), 
     person(given="Feifang", family="Hu", email="feifang@gwu.edu", role=c("aut","ctb"))
     )
-Description: The CARA package provides a comprehensive set of functions for implementing covariate-adjusted response-adaptive procedures with various types of responses. Users can flexibly choose between two functions based on their specific needs for each procedure: Provide real patient data from clinical trials to compute allocation probabilities directly, or use built-in simulation functions to generate synthetic patient data. Detailed methodologies and algorithms used in this package, please refer to the following references:
+Description: The caradpt package provides a set of functions for implementing covariate-adjusted response-adaptive procedures with various types of responses. Users can flexibly choose between two functions based on their specific needs for each procedure: Provide real patient data from clinical trials to compute allocation probabilities directly, or use built-in simulation functions to generate synthetic patient data. Detailed methodologies and algorithms used in this package, please refer to the following references:
     Zhang, L. X., Hu, F., Cheung, S. H., & Chan, W. S. (2007)<doi: 10.1214/009053606000001424>
     Zhang, L. X. & Hu, F. (2009) <doi: 10.1007/s11766-009-0001-6>
     Hu, J., Zhu, H., & Hu, F. (2015) <doi:10.1080/01621459.2014.903846>
@@ -23,4 +23,4 @@ Author: Renjie Luo [aut, cre],
   Feifang Hu [aut, ctb]
 Maintainer: Renjie Luo <jerry.luorj@gmail.com>
 NeedsCompilation: no
-Packaged: 2025-08-04 17:09:42 UTC; renjieluo
+Packaged: 2025-08-15 14:39:15 UTC; luore
